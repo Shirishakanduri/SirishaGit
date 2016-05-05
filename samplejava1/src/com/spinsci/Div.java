@@ -18,6 +18,10 @@ public class Div {
 		System.out.println("haii to all");
 		return "welcome";
 	}
+	public String sayHelloAll2(){
+		System.out.println("haii to all");
+		return "welcome";
+	}
 	public static void main(String[] args) {
 		Div d=new Div();
 		d.div();
