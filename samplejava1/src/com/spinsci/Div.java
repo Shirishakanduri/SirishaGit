@@ -35,7 +35,10 @@ public class Div {
 		System.out.println("haii to users");
 		return "welcome users";
 	}
-	
+	public String sayHi(){
+		System.out.println("haii to Sandeep");
+		return "Hi Sandeeep";
+	}
 	
 	
 	public String sayHiGitHub(){
