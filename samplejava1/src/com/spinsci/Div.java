@@ -47,7 +47,7 @@ public class Div {
 	}
 	
 	
-	public String sayHiGitHub(){
+	public String sayHiGitHub1(){
 		System.out.println("I am trying to know about github");
 		return "welcome GitHub";
 	}
