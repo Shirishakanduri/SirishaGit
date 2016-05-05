@@ -39,6 +39,10 @@ public class Div {
 		System.out.println("haii to Sandeep");
 		return "Hi Sandeeep";
 	}
+	public String sprint(){
+		System.out.println("welcome to sprint team");
+		return "welcome to sprint team";
+	}
 	public String sayBi(){
 		return "good bye";
 	}
