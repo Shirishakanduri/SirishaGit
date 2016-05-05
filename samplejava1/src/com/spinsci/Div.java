@@ -41,6 +41,12 @@ public class Div {
 	}
 	
 	
+	public String saySpinsci(){
+		System.out.println("haii to spsinsci");
+		return "Hi spinsci";
+	}
+	
+	
 	public String sayHiGitHub(){
 		System.out.println("I am trying to know about github");
 		return "welcome GitHub";
