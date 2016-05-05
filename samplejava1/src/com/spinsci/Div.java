@@ -31,6 +31,13 @@ public class Div {
 		return "welcome";
 	}
 	
+	public String sayHiUsers(){
+		System.out.println("haii to users");
+		return "welcome users";
+	}
+	
+	
+	
 	public String sayHiGitHub(){
 		System.out.println("I am trying to know about github");
 		return "welcome GitHub";
