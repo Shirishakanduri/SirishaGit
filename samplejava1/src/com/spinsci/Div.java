@@ -22,6 +22,14 @@ public class Div {
 		System.out.println("haii to all");
 		return "welcome";
 	}
+	public String sayHello5(){
+		System.out.println("haii to all");
+		return "haii to all";
+	}
+	public String sayHelloAll7(){
+		System.out.println("haii to all");
+		return "welcome";
+	}
 	public static void main(String[] args) {
 		Div d=new Div();
 		d.div();
