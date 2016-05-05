@@ -39,15 +39,28 @@ public class Div {
 		System.out.println("haii to Sandeep");
 		return "Hi Sandeeep";
 	}
+
 	
 	
 	public String saySpinsci(){
 		System.out.println("haii to spsinsci");
 		return "Hi spinsci";
 	}
+	public String saySpinsci1(){
+		System.out.println("haii to sprintdev team");
+		return "haii to sprintdev team";
+	}
 	
 	
-	public String sayHiGitHub1(){
+	
+	public String sprint(){
+		System.out.println("welcome to sprint team");
+		return "welcome to sprint team";
+	}
+	public String sayBi(){
+		return "good bye";
+	}
+	public String sayHiGitHub(){
 		System.out.println("I am trying to know about github");
 		return "welcome GitHub";
 	}
