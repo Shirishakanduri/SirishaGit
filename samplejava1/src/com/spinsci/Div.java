@@ -1,5 +1,5 @@
 package com.spinsci;
-
+//sample program
 public class Div {
 	void div(){
 		int a,b;
