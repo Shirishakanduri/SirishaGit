@@ -39,8 +39,9 @@ public class Div {
 		System.out.println("haii to Sandeep");
 		return "Hi Sandeeep";
 	}
-	
-	
+	public String sayBi(){
+		return "good bye";
+	}
 	public String sayHiGitHub(){
 		System.out.println("I am trying to know about github");
 		return "welcome GitHub";
