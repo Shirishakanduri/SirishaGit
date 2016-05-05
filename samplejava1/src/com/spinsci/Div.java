@@ -10,6 +10,10 @@ public class Div {
 	public String getValue(){
 	return "hello";	
 	}
+	public String sayHello(){
+		System.out.println("haii to all");
+		return "haii to all";
+	}
 	public static void main(String[] args) {
 		Div d=new Div();
 		d.div();
