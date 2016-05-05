@@ -30,6 +30,13 @@ public class Div {
 		System.out.println("haii to all");
 		return "welcome";
 	}
+	
+	public String sayHiGitHub(){
+		System.out.println("I am trying to know about github");
+		return "welcome GitHub";
+	}
+	
+	
 	public static void main(String[] args) {
 		Div d=new Div();
 		d.div();
