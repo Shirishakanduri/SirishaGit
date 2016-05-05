@@ -7,6 +7,9 @@ public class Div {
 		b=20;
 		System.out.println("division"+(b/a));
 }
+	public String getValue(){
+	return "hello";	
+	}
 	public static void main(String[] args) {
 		Div d=new Div();
 		d.div();
