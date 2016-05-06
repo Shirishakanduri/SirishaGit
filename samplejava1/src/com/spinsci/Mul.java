@@ -8,6 +8,7 @@ public class Mul {
 		System.out.println("multiplication"+(a*b));
 		
 }
+	String y= new TestApp().getStr("hello");
 	public String sayHelloAll2(){
 		System.out.println("haii to all");
 		return "welcome";
