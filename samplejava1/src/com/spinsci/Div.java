@@ -6,7 +6,7 @@ public class Div {
 		a=10;
 		b=20;
 		System.out.println("division"+(b/a));
-}//this for tesing
+}//this for tesing hdhdgdgj
 	public String getValue(){
 	return "hello";	
 	}
