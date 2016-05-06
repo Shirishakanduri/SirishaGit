@@ -1,4 +1,7 @@
 package com.spinsci;
+
+import com.spin.TestDemo;
+
 //sample program
 public class Div {
 	void div(){
@@ -10,6 +13,7 @@ public class Div {
 	public String getValue(){
 	return "hello";	
 	}
+	int y= new TestDemo().getVal(3);
 	public String getValue1(){
 		return "hello";	
 		}
